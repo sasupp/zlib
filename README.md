@@ -1,2 +1,1 @@
-# zlib
-C++ Utility functions for Graph algorithms, IO, timer.
+C++ Utility functions for Graph algorithm, IO, timer.
